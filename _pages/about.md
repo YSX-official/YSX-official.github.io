@@ -18,10 +18,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About Me
-Hi! I am an year-3 undergraduate at the Chinese University of Hong Kong (CUHK) majoring in Mathematics and Information Engineering (MIEG). I am currently studying Computer Science at the ETH Zürich as an exchange student.
+Hi! I am a year-3 undergraduate at the [Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/index.html) majoring in Mathematics and Information Engineering (MIEG). I am currently studying Computer Science at the [ETH Zürich](https://ethz.ch/en.html) as an exchange student.
 
-My current research interests include 3D Vision, Computer Graphics, Computational Design, and Fabrication.
-
+My current research interests include 3D Vision, Computer Graphics, Computational Design, and Fabrication. Life is about experiencing life, and so I would like to explore more research areas and find what excites me the most, rather than following trends.
 
 # 🔥 News
 
@@ -41,8 +40,8 @@ My current research interests include 3D Vision, Computer Graphics, Computationa
 
 
 # Research and Projects
-- *2026.03 - Present*, Spatial Intelligence of LLM, ETH Zürich (3D Vision)
-- *2025.02 - 2026.01*, Multi-oriented LEGO Stack Arts, CUHK (Computer Graphics)
-- *2024.09 - 2025.01*, AI-Empowered LEGO Generation, CUHK (Generative Models)
-- *2024.06 - 2024.08*, Computational LEGO Design, CUHK (Computer Graphics)
+- *2026.03 - Present*, Spatial Intelligence of LLM, ETH Zürich, [VLG](https://vlg.inf.ethz.ch/) (Semester Project, 3D Vision)
+- *2025.02 - 2026.01*, Multi-oriented LEGO Stack Arts, CUHK (Research Intern, Computer Graphics)
+- *2024.09 - 2025.01*, AI-Empowered LEGO Generation, CUHK (RA, Generative Models)
+- *2024.06 - 2024.08*, Computational LEGO Design, CUHK (Research Intern, Computer Graphics)
 
