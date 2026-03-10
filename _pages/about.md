@@ -30,14 +30,14 @@ My current research interests include 3D Vision, Computer Graphics, Computationa
 
 
 # Educations
-- *2023.09 - Present*, The Chinese University of Hong Kong, BSc. in Mathematics & Information Engineering (MIEG)
+- *2023.09 - Present*, The Chinese University of Hong Kong, BSc. in Mathematics \& Information Engineering (MIEG)
 - *2026.02 - Present*, ETH Zürich, Computer Science, Exchange Student
 
 
 # Honors and Awards
 - *2024-25* ELITE Stream Scholarship 
 - *2024-25* Yasumoto Int'l. Exch. Scholarship
-- *2023-24* Mr. & Mrs. Chin F. Foin Memorial Scholarship
+- *2023-24* Mr. \& Mrs. Chin F. Foin Memorial Scholarship
 
 
 # Research and Projects
