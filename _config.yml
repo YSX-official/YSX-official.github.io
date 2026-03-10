@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Shaoxuan YUAN (袁绍轩)"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/icon.png"
   bio              : "Undergraduate @ The Chinese University of Hong Kong (CUHK), Exchange Student @ ETH Zürich"
   location         : "Zürich, Switzerland"
   employer         :
