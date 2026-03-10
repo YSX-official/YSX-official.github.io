@@ -27,7 +27,7 @@ author:
   location         : "Zürich, Switzerland"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    : 
   email            : "1155211097@link.cuhk.edu.hk"
   researchgate     : 
   uri              :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "YSX-official"
+  github           : "YSX-official"
   google_plus      :
   keybase          :
   instagram        :
