@@ -40,8 +40,9 @@ My current research interests include 3D Vision, Computer Graphics, Computationa
 
 
 # 🔨 Research and Projects
-- Mar, 2026 - Present, Spatial Intelligence of LLM, ETH Zürich, [VLG](https://vlg.inf.ethz.ch/) (Semester Project, 3D Vision)
-- Feb, 2025 - Jan, 2026, Multi-oriented LEGO Stack Arts, CUHK (Research Intern, Computer Graphics)
+- Mar, 2026 - Present, 3D Scene Understanding, CUHK (Final Year Project, 3D Vision + LLM)
+- Mar, 2026 - Present, Spatial Intelligence of LLM, ETH Zürich, [VLG](https://vlg.inf.ethz.ch/) (Semester Project, 3D Vision + LLM)
+- Feb, 2025 - Present, Multi-oriented LEGO Stack Arts, CUHK (Research Intern, Computer Graphics)
 - Sep, 2024 - Jan, 2025, AI-Empowered LEGO Generation, CUHK (RA, Generative Models)
 - Jun, 2024 - Aug, 2024, Computational LEGO Design, CUHK (Research Intern, Computer Graphics)
 
