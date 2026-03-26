@@ -22,6 +22,8 @@ Hi! I am a year-3 undergraduate at [The Chinese University of Hong Kong (CUHK)](
 
 My current research interests include 3D Vision, Computer Graphics, Computational Design, and Fabrication. Life is about experiencing life, and so I would like to explore more research areas and find what excites me the most, rather than following trends.
 
+Here is my [RedNote](https://www.xiaohongshu.com/user/profile/65182d72000000002402c89f), recording a part of my life!
+
 # 🔥 News
 - Feb, 2026: I’m currently on exchange at ETH Zürich!
 
