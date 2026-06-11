@@ -42,7 +42,7 @@ Here is my [RedNote](https://www.xiaohongshu.com/user/profile/65182d720000000024
 
 
 # 🔨 Research and Projects
-- Apr, 2026 - Present, Neural-guided LEGO Sketch Art Generation, CUHK (Research Intern; Computer Graphics + ML; Supervised by [Prof. Chi-Wing FU, Philip](https://www.cse.cuhk.edu.hk/~cwfu/))
+- Apr, 2026 - Present, LEGO reconstruction from multi-view images and depth map, CUHK (Research Intern; Computer Graphics + ML; Supervised by [Prof. Chi-Wing FU, Philip](https://www.cse.cuhk.edu.hk/~cwfu/))
 - Mar, 2026 - Present, Video-based 3D VLM, CUHK (Final Year Project; 3D Vision; Supervised by [Prof. Wanli Ouyang](https://wlouyang.github.io/))
 - Mar, 2026 - Present, 3D-Aware Visual-Language Reasoning, ETH Zürich, [VLG](https://vlg.inf.ethz.ch/) (Semester Project; 3D Vision)
 - Feb, 2025 - Present, Multi-oriented LEGO Stack Arts, CUHK (Research Intern; Computer Graphics; Supervised by [Prof. Chi-Wing FU, Philip](https://www.cse.cuhk.edu.hk/~cwfu/))
