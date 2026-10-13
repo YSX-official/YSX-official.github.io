@@ -18,24 +18,25 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About Me
-Hi! I am a year-3 undergraduate at [The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/index.html) majoring in Mathematics and Information Engineering (MIEG). I am currently studying Computer Science at [ETH Zürich](https://ethz.ch/en.html) as an exchange student.
+Hi! I am a year-4 undergraduate at [The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/index.html) majoring in Mathematics and Information Engineering (MIEG).
 
 My current research interests include 3D Vision, Computer Graphics, Computational Design, and Fabrication. Life is about experiencing life, and so I would like to explore more research areas and find what excites me the most, rather than following trends.
 
 Here is my [RedNote](https://www.xiaohongshu.com/user/profile/65182d72000000002402c89f), recording a part of my life!
 
 # 🔥 News
-- Feb, 2026: I’m currently on exchange at ETH Zürich!
+- Feb, 2026: I’m currently on exchange at [ETH Zürich](https://ethz.ch/en.html)!
 
 # 📖 Publications 
 - Coming soon 😅
 
 # 🎓 Educations
 - Sep, 2023 - Present, The Chinese University of Hong Kong, Hong Kong, BSc. in Mathematics and Information Engineering (MIEG)
-- Feb, 2026 - Present, ETH Zürich, Switzerland, Computer Science, Exchange Student
+- Feb, 2026 - Aug, 2026, ETH Zürich, Switzerland, Computer Science, Exchange Student
 
 
 # 🎖️ Honors and Awards
+- 2025-26 IE Award
 - 2024-25 ELITE Stream Scholarship 
 - 2024-25 Yasumoto Int'l. Exch. Scholarship
 - 2023-24 Mr. and Mrs. Chin F. Foin Memorial Scholarship
